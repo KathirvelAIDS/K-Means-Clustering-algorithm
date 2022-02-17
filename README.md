@@ -25,8 +25,7 @@ Pretict the cluster group of Applicant Income and Loanamount.
 
 ## Program:
 ```
-#Name:Vijay R
-#Ref.No:21500269
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
@@ -61,7 +60,7 @@ print('The cluster group for Applicant Income 9000 and loanamount 120',predicted
 
 ```
 ## Output:
-![output1](https://github.com/vijay21500269/K-Means-Clustering-algorithm/blob/master/output1.jpeg)
+![output1]()
 ![output2](https://github.com/vijay21500269/K-Means-Clustering-algorithm/blob/master/output2.jpeg)
 
 
